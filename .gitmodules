@@ -1,0 +1,6 @@
+[submodule "test-gh-submodule-add"]
+	path = test-gh-submodule-add
+	url = https://crguezl/crguezl/test-gh-submodule-add.git
+[submodule "gh-submodule-add"]
+	path = gh-submodule-add
+	url = https://crguezl/crguezl/gh-submodule-add.git
